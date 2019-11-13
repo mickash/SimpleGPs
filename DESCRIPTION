@@ -1,0 +1,11 @@
+Package: SimpleGPs
+Type: Package
+Title: A clear and simple implementation of Gaussian Processes
+Version: 1.01
+Date: 2016-02-23
+Author: Mike Ashcroft
+Maintainer: Mike Ashcroft <michael.ashcroft@it.uu.se>
+Description: A clear and simple implementation of Gaussian Processes
+License: GPU-4
+Import: gdata
+RoxygenNote: 6.0.1
